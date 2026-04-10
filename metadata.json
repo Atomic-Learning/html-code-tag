@@ -1,22 +1,18 @@
 {
-    "title": "",
-    "slug": "",
-    "description": "",
+    "title": "HTML: The <code> Tag",
+    "slug": "html-code-tag",
+    "description": "This page introduces the <code> tag and describes how it can be used to render code on a page, including syntax highlighting.",
     "authors": [
-        "",
-        ""
+        "chris-cooling"
     ],
     "tags": [
-        "",
-        ""
+        "html"
     ],
-    "duration": 0,
+    "duration": 1,
     "prerequisites": [
-        "",
-        ""
+        "html-tags",
+        "html-classes"
     ],
     "related": [
-        "",
-        ""
     ]
 }
